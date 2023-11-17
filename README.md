@@ -1,2 +1,2 @@
 # NN-Exercises
-A collection of neural network exercises.
+This repository contains programs and solutions related to neural network homework and exercises.
